@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gaosdev.cl/assets/logo/gd-logo-tr.png" width="150" alt="GaosDev Logo" />
+  <img src="assets/img/gd-logo-tr.png" width="150" alt="GaosDev Logo" />
 </p>
 
 <h1 align="center">Hola, soy Felipe Gaos 👋</h1>
