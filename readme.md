@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://gaosdev.cl" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C0FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Fullstack+Developer" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C0FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=JavaScript+%7C+PHP+%7C+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C0FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Fullstack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00C0FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=JavaScript+%7C+PHP+%7C+Python" alt="Typing SVG" />
   </a>
 </p>
 
